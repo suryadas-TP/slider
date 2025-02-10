@@ -7,6 +7,7 @@ function App() {
     <div className='app'>
       <div className='top-content'>
         <h2>Choose Your Destination</h2>
+        <p>Happy Honeymoon</p>
       </div>
       <Slider data={destinations}/>
     </div>

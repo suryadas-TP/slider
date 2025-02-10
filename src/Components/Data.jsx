@@ -1,0 +1,30 @@
+export const destinations = [
+    {
+        place:"/Images/page1.jpg",
+        title:"one"
+    },
+    {
+        place:"/Images/page2.jpg",
+        title:"two"
+    },
+    {
+        place:"/Images/page3.jpg",
+        title:"three"
+    },
+    {
+        place:"/Images/page4.jpg",
+        title:"four"
+    },
+    {
+        place:"/Images/page5.jpg",
+        title:"five"
+    },
+    {
+        place:"/Images/page6.jpg",
+        title:"six"
+    },
+    {
+        place:"/Images/page7.jpg",
+        title:"seven"
+    },
+]
